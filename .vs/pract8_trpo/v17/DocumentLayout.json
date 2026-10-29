@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|c:\\users\\st310-10\\desktop\\karamov\\pract8_trpo\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|solutionrelative:controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|c:\\users\\st310-10\\desktop\\karamov\\pract8_trpo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|c:\\users\\st310-10\\desktop\\karamov\\pract8_trpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|c:\\users\\st310-10\\desktop\\karamov\\pract8_trpo\\models\\karamovdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF0B8D1-E360-408A-AC13-3FE5ED96DCD7}|pract8_trpo.csproj|solutionrelative:models\\karamovdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KaramovDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Models\\KaramovDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\KaramovDbContext.cs",
+              "ToolTip": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Models\\KaramovDbContext.cs",
+              "RelativeToolTip": "Models\\KaramovDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:49:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:31:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:23:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\st310-10\\Desktop\\karamov\\pract8_trpo\\Controllers\\Auth.cs",
+              "RelativeToolTip": "Controllers\\Auth.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:19:51.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
